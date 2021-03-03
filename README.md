@@ -13,6 +13,6 @@ If there's no Wii System Menu installed in Dolphin, it will automatically downlo
 
 # Credit
 
-speedie: Custom NAND, patch tool and dNAND
-Nintendo: Boot2, IOS, System Menu
+speedie: Custom NAND, patch tool and dNAND, Nintendo: Boot2, IOS, System Menu
+
 
