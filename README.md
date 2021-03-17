@@ -1,5 +1,8 @@
 # dIOS
 
+
+DIOS IS DEPRECATED AND YOU SHOULD NO LONGER USE IT. INSTEAD USE DOLPHIN TOOLKIT.
+
 dIOS is a patch tool (Windows only at the moment) which makes your Dolphin Emulator more like a real Wii NAND.
 This does NOT help you if the homebrew app has Anti-Emulator code in it (HackMii Installer for example)
 
